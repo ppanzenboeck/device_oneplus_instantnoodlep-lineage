@@ -19,5 +19,5 @@ qupfw.img;AB
 storsec.img;AB
 tz.img;AB
 uefisecapp.img;AB
-xbl_config_lp5.img:xbl_config.img;AB
-xbl_lp5.img:xbl.img;AB
+xbl_config_lp5.img:xbl_config.img;AB;TRYSRCFIRST
+xbl_lp5.img:xbl.img;AB;TRYSRCFIRST
